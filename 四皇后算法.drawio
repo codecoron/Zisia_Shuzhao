@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T01:28:13.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.76 Safari/537.36 Edg/85.0.564.40" etag="4i-_wXYVkSS2Z6od6flJ" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T01:29:20.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.76 Safari/537.36 Edg/85.0.564.40" etag="JY5Hz1A1gFAJ5KBq-zuy" version="13.7.5" type="github">
   <diagram id="bG9Ah5Db7zzR3B9StxCd" name="第 1 页">
     <mxGraphModel dx="1037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="InyQM3sEfoP8-OmRKPYB-2" value="第一个皇后放在第一行某一列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="InyQM3sEfoP8-OmRKPYB-4" value="第一个皇后放在第一行某一列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="InyQM3sEfoP8-OmRKPYB-4" value="第二个皇后放在第二行某一列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InyQM3sEfoP8-OmRKPYB-5" value="第三个皇后放在第三行某一列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="InyQM3sEfoP8-OmRKPYB-6" value="第四个皇后放在第四行某一列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="520" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
